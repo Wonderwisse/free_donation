@@ -53,7 +53,7 @@ $email	= 	$_POST['email'];
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Kitchen Utensil Donation</title>
+    <title>Utensil Donation</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="new/css/bootstrap.min.css" rel="stylesheet">
@@ -84,7 +84,7 @@ $email	= 	$_POST['email'];
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">Kitchen Utensil Donation</a>
+                <a class="navbar-brand" href="index.php">Utensil Donation</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
